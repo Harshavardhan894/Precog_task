@@ -200,18 +200,4 @@ Potential experiments to extend this work:
 - Test transfer learning from unbiased pre-training
 - Implement adversarial training for robustness
 
-## 📄 License
-
-[Specify your license here - e.g., MIT, Apache 2.0]
-
-## 👤 Author
-
-Harshavardhan894
-
-## 📞 Support
-
-For questions or issues, please open an issue on the GitHub repository.
-
----
-
-**Note**: This project is part of the Precog task series. See `cnn_Tasks.pdf` for detailed specifications.
+This project is part of the Precog task series. See `cnn_Tasks.pdf` for detailed specifications.
